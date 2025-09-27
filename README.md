@@ -79,7 +79,7 @@ Stack contents (top to bottom): 20 10
 
 ...（完整输出见 output_example.txt）
 作者
-[你的姓名] - [你的学号]
+姚涵芳
 
 许可证
 本项目仅用于教学目的。
