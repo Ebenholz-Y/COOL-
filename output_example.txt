@@ -1,0 +1,34 @@
+=== Stack Implementation Test ===
+
+Test 1: Basic Operations
+Initial stack size: 0
+Pushed: 10
+Pushed: 20
+Pushed: 30
+Stack contents (top to bottom): 30 20 10
+Top element: 30
+Popped: 30
+Stack contents (top to bottom): 20 10
+Current stack size: 2
+
+Test 2: Boundary Conditions
+Popping from empty stack: Error: Stack is empty
+Pushed: 40
+Pushed: 50
+Pushed: 60
+Stack contents (top to bottom): 60 50 40 20 10
+Popping all elements:
+Popped: 60
+Popped: 50
+Popped: 40
+Popped: 20
+Popped: 10
+Stack is empty
+
+Test 3: Method Chaining
+Pushed: 100
+Pushed: 200
+Pushed: 300
+Stack contents (top to bottom): 300 200 100
+
+=== All Tests Completed Successfully ===
